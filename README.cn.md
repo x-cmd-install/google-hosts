@@ -26,13 +26,13 @@ x install google-hosts
 
 ## OpenSSF Scorecard 评分
 
-总评分: **0.7 / 10**
+总评分: **0.5 / 10**
 
 评分最低的几项:
 
+- **Token-Permissions** (-1/10) — No tokens found
+- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
 - **Dangerous-Workflow** (-1/10) — no workflows found
-- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
-- **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
 
@@ -42,7 +42,7 @@ x install google-hosts
 
 ## 流行度
 
-- **Star**: 3,365 · **Fork**: 1,215 · **开放 issue**: 78 · **贡献者**: 11
+- **Star**: 3,366 · **Fork**: 1,215 · **开放 issue**: 78 · **贡献者**: 11
 
 ## 累计统计
 
@@ -52,12 +52,12 @@ x install google-hosts
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-27 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 360d | 2025-09-28 | 0 | 1 | 0 | 0 | 0 | 2 |
-| last720d | 2024-10-03 | 0 | 1 | 0 | 0 | 0 | 3 |
+| 30d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-28 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 360d | 2025-09-29 | 0 | 1 | 0 | 0 | 0 | 2 |
+| last720d | 2024-10-04 | 0 | 1 | 0 | 0 | 0 | 3 |
 
 ## 改进这些数据
 
@@ -68,4 +68,4 @@ google-hosts 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260923.yml` · 2026-09-23T05:11:43Z._
+_数据快照: `data/card/260924.yml` · 2026-09-24T05:01:57Z._
