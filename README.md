@@ -31,8 +31,8 @@ Overall score: **0.5 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
 - **Dangerous-Workflow** (-1/10) — no workflows found
+- **Token-Permissions** (-1/10) — No tokens found
 
 ## Source
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,363 · **Forks**: 1,207 · **Open issues**: 78 · **Contributors**: 11
+- **Stars**: 3,362 · **Forks**: 1,207 · **Open issues**: 78 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-21 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 360d | 2025-11-22 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last720d | 2024-11-27 | 0 | 1 | 0 | 0 | 0 | 3 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-23 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 360d | 2025-11-24 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last720d | 2024-11-29 | 0 | 1 | 0 | 0 | 0 | 3 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for google-hosts lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:44:54Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:40:13Z._
